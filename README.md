@@ -1,4 +1,5 @@
-# Gestion-Projet
+# Gestion-Stock
+
 
 Gestion-Projet est une application Java basée sur Hibernate/JPA pour gérer les employés,
 tâches, commandes, produits et livraisons. Le projet utilise MySQL comme base de données et Maven pour la gestion des dépendances.
@@ -35,7 +36,7 @@ https://github.com/user-attachments/assets/31f1e655-21bf-4a1e-8326-dc8f6da33f92
 
 
 
-# Gestion De Stock :
+# Gestion De Projet :
  wait for it ..
 
 
