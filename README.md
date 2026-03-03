@@ -32,3 +32,16 @@ Mappage complet avec Hibernate/JPA pour persistance
 # Video Demo 1 :
 
 https://github.com/user-attachments/assets/31f1e655-21bf-4a1e-8326-dc8f6da33f92
+
+
+
+# Gestion De Stock :
+ wait for it ..
+
+
+
+
+
+
+ # Gestion Des Citoyen :
+ 
